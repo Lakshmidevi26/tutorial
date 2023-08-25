@@ -2,3 +2,6 @@ git --version
 git help
 git init
 git status
+git diff
+gti log
+
